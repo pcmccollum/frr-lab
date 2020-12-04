@@ -137,7 +137,3 @@ networks:
   as30-net:
   as40-net:
   as50-net:
-
-configs:
-  daemons_cfg:
-    file: ./daemons_cfg
